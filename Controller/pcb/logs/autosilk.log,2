@@ -1,0 +1,50 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Auto Silkscreen Log File                            )
+(                                                            )
+(        Drawing          : 7_cmpe174tutorial.brd            )
+(        Software Version : 16.2p005                         )
+(        Date/Time        : Sun Oct 25 15:08:18 2009         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for both sides of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0
+Max Text displacement is 100.0
+Min Line Length is 0.0
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+
+     ----- Top Silkscreen -----
+
+
+     ----- Bottom Silkscreen -----
+
+Text string 'R6' is not at a suitable location
+(location: 10740.0, 5720.0)
+Text string 'R2' is not at a suitable location
+(location: 11025.0, 6215.0)
+Text string 'R1' is not at a suitable location
+(location: 10865.0, 7000.0)
+Text string 'C7' is not at a suitable location
+(location: 10705.0, 6205.0)
+Text string 'C5' is not at a suitable location
+(location: 10690.0, 5690.0)
+
+Total Failures: 5
+
+Log End
+

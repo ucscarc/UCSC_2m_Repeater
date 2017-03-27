@@ -1,0 +1,443 @@
+\t (00:00:04) allegro 16.5 S031 (v16-5-13BV) i86
+\t (00:00:04)     Journal start - Wed Mar 19 20:58:39 2014
+\t (00:00:04)         Host=ENIAC User=stephen Pid=1496 CPUs=2
+\t (00:00:04) 
+\t (00:00:06) Opening existing design...
+\i (00:00:08) fillin yes 
+\w (00:00:08) WARNING(SPMHDB-214): Allegro PCB Design L (legacy) opening an Allegro XL design.
+\w (00:00:08) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:08) WARNING(SPMHOD-33): Design was last saved by a different product (Allegro XL). Constraints and other design data may not be available with this product. Functionality between two products may also be equivalent, you should consult the product functionality matrix to determine differences.
+\i (00:00:09) fillin confirm
+\d (00:00:09) Database opened: //Wandererii/c/Amateur Radio/Projects/UCSC_2m_Repeater/Controller/pcb/controller.brd
+\t (00:00:10) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:00:10) trapsize 312
+\i (00:00:10) trapsize 303
+\i (00:00:10) trapsize 313
+\i (00:00:10) trapsize 261
+\i (00:00:10) trapsize 310
+\i (00:00:11) etchedit 
+\i (00:00:19) xsection 
+   (00:00:20) Loading floor.cxt 
+   (00:00:20) Loading skillExt.cxt 
+   (00:00:20) Loading axlcore.cxt 
+\i (00:00:29) setwindow form.fplyrstack
+\i (00:00:29) FORM fplyrstack showsingleimpedance YES 
+   (00:00:30) Loading signal.cxt 
+\i (00:00:35) FORM fplyrstack lsgrid cell 2,thickness 
+\i (00:01:01) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:01:08) FORM fplyrstack lsgrid change 3,thickness 62 
+\i (00:01:08) FORM fplyrstack lsgrid cell 3,electric 
+\i (00:01:14) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:01:18) FORM fplyrstack lsgrid change 2,linewidth 100 
+\i (00:01:21) FORM fplyrstack lsgrid cell 4,linewidth 
+\i (00:01:26) FORM fplyrstack lsgrid change 4,linewidth 100 
+\i (00:01:31) FORM fplyrstack showdiffimpedance YES 
+\i (00:01:35) FORM fplyrstack lsgrid lprepopup 2,couplingtype 
+\i (00:01:35) FORM fplyrstack lsgrid cell 2,couplingtype 
+\i (00:01:41) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:01:44) FORM fplyrstack lsgrid change 2,linewidth 200.0 
+\i (00:01:47) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:01:51) FORM fplyrstack lsgrid change 2,linewidth 100 
+\i (00:01:52) FORM fplyrstack lsgrid cell 4,linewidth 
+\i (00:01:54) FORM fplyrstack help  
+\i (00:03:09) FORM fplyrstack cancel  
+\i (00:03:10) setwindow pcb
+\i (00:03:10) etchedit 
+\i (00:03:27) define lyrstack 
+\i (00:05:44) setwindow form.fplyrstack
+\i (00:05:44) FORM fplyrstack showsingleimpedance YES 
+\i (00:05:48) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:05:53) FORM fplyrstack lsgrid change 2,impedance 50 
+   (00:05:53) "Unable to compute a line width that creates an impedance of 50 ohmon layer TOP"
+\i (00:05:57) fillin confirm
+\i (00:05:57) FORM fplyrstack lsgrid cell 4,impedance 
+\i (00:06:01) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:06:07) FORM fplyrstack lsgrid change 3,thickness 62.5 
+\i (00:06:17) FORM fplyrstack lsgrid cell 2,dielectric 
+\i (00:06:23) FORM fplyrstack lsgrid cell 1,dielectric 
+\i (00:06:24) FORM fplyrstack lsgrid cell 1,losstangent 
+\i (00:06:26) FORM fplyrstack lsgrid cell 5,dielectric 
+\i (00:06:27) FORM fplyrstack lsgrid cell 4,neg 
+\i (00:06:27) FORM fplyrstack lsgrid change 4,neg yes 
+\i (00:06:29) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:06:31) FORM fplyrstack lsgrid change 2,linewidth 6 
+\i (00:06:32) FORM fplyrstack lsgrid cell 4,linewidth 
+\i (00:06:33) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:06:39) FORM fplyrstack lsgrid cell 4,neg 
+\i (00:06:39) FORM fplyrstack lsgrid change 4,neg no 
+\i (00:06:40) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:06:41) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:06:41) FORM fplyrstack lsgrid cell 1,impedance 
+\i (00:06:41) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:06:46) FORM fplyrstack lsgrid change 2,linewidth 100 
+\i (00:08:15) FORM fplyrstack selectfield Width 
+\i (00:08:18) FORM fplyrstack updatefields  
+   (00:08:18) "A Value to Set must be specified."
+\i (00:08:19) fillin confirm
+\i (00:08:27) FORM fplyrstack stringvaluetoset 100 
+\i (00:08:27) FORM fplyrstack updatefields  
+\i (00:08:52) FORM fplyrstack lsgrid lprepopup 4,type 
+\i (00:08:52) FORM fplyrstack lsgrid cell 4,type 
+\i (00:08:53) FORM fplyrstack lsgrid change 4,type PLANE 
+\i (00:09:02) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:09:05) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:09:09) FORM fplyrstack lsgrid change 2,impedance 50 
+   (00:09:09) "Unable to compute a line width that creates an impedance of 50 ohmon layer TOP"
+\i (00:09:11) fillin confirm
+\i (00:09:17) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:09:18) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:09:21) FORM fplyrstack lsgrid change 2,linewidth 110.0 
+\i (00:09:24) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:09:27) FORM fplyrstack lsgrid change 2,linewidth 200 
+\i (00:09:41) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:09:44) FORM fplyrstack lsgrid change 2,impedance 50 
+   (00:09:44) "Unable to compute a line width that creates an impedance of 50 ohmon layer TOP"
+\i (00:09:50) fillin confirm
+\i (00:09:55) FORM fplyrstack lsgrid cell 2,losstangent 
+\i (00:10:02) FORM fplyrstack lsgrid cell 3,electric 
+\i (00:10:03) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:10:14) FORM fplyrstack lsgrid change 3,thickness 60 
+\i (00:10:18) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:10:26) FORM fplyrstack lsgrid change 2,linewidth 100.0 
+\i (00:10:30) FORM fplyrstack lsgrid cell 2,dielectric 
+\i (00:10:41) FORM fplyrstack lsgrid change 2,dielectric 1 
+\i (00:10:41) FORM fplyrstack lsgrid cell 3,dielectric 
+\i (00:10:42) FORM fplyrstack lsgrid cell 4,dielectric 
+\i (00:10:44) FORM fplyrstack lsgrid change 4,dielectric 1 
+\i (00:10:45) FORM fplyrstack lsgrid cell 3,dielectric 
+\i (00:10:50) FORM fplyrstack lsgrid change 3,dielectric 4.7 
+\i (00:10:50) FORM fplyrstack lsgrid cell 4,dielectric 
+\i (00:10:53) FORM fplyrstack lsgrid cell 5,dielectric 
+\i (00:11:11) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:11:14) FORM fplyrstack lsgrid change 3,thickness 30 
+\i (00:11:14) FORM fplyrstack lsgrid cell 4,thickness 
+\i (00:11:16) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:11:19) FORM fplyrstack lsgrid change 3,thickness 15 
+\i (00:11:19) FORM fplyrstack lsgrid cell 4,thickness 
+\i (00:11:21) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:11:23) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:11:26) FORM fplyrstack lsgrid change 2,impedance 50 
+   (00:11:26) "Unable to compute a line width that creates an impedance of 50 ohmon layer TOP"
+\i (00:11:28) fillin confirm
+\i (00:11:28) FORM fplyrstack lsgrid cell 3,linewidth 
+\i (00:11:40) FORM fplyrstack selectfield Impedance 
+\i (00:11:45) FORM fplyrstack stringvaluetoset 50 
+\i (00:11:45) FORM fplyrstack updatefields  
+   (00:11:45) "Unable to compute a line width that creates an impedance of 50 ohmon layer TOP"
+\i (00:11:48) fillin confirm
+\i (00:12:07) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:12:11) FORM fplyrstack lsgrid change 2,impedance 50 
+   (00:12:11) "Unable to compute a line width that creates an impedance of 50 ohmon layer TOP"
+\i (00:12:13) fillin confirm
+\i (00:12:13) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:12:18) FORM fplyrstack lsgrid change 2,linewidth ' ' 
+   (00:12:18) "[ ] is an illegal numeric value for Line Width."
+\i (00:12:21) fillin confirm
+\i (00:12:24) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:12:27) FORM fplyrstack lsgrid change 3,thickness 60 
+\i (00:12:27) FORM fplyrstack lsgrid cell 4,thickness 
+\i (00:12:31) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:12:45) FORM fplyrstack selectmaterial 2OZ_COPPER 
+\i (00:12:55) FORM fplyrstack selectfield Thickness 
+\i (00:12:57) FORM fplyrstack updatefields  
+   (00:12:57) "A Value to Set must be specified."
+\i (00:12:59) fillin confirm
+\i (00:13:02) FORM fplyrstack selectlayertype CONDUCTOR 
+\i (00:13:11) FORM fplyrstack lsgrid lprepopup 2,material 
+\i (00:13:11) FORM fplyrstack lsgrid cell 2,material 
+\i (00:13:13) FORM fplyrstack lsgrid change 2,material 2OZ_COPPER 
+\i (00:13:15) FORM fplyrstack lsgrid lprepopup 4,material 
+\i (00:13:15) FORM fplyrstack lsgrid cell 4,material 
+\i (00:13:17) FORM fplyrstack lsgrid change 4,material 2OZ_COPPER 
+\i (00:13:22) FORM fplyrstack lsgrid lprepopup 3,material 
+\i (00:13:22) FORM fplyrstack lsgrid cell 3,material 
+\i (00:13:33) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:13:38) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:13:45) FORM fplyrstack showdiffimpedance YES 
+\i (00:13:51) FORM fplyrstack showsingleimpedance NO 
+\i (00:13:53) FORM fplyrstack showsingleimpedance YES 
+\i (00:14:00) FORM fplyrstack apply  
+\i (00:14:03) FORM fplyrstack lsgrid lprepopup 2,couplingtype 
+\i (00:14:03) FORM fplyrstack lsgrid cell 2,couplingtype 
+\i (00:14:06) FORM fplyrstack lsgrid lprepopup 2,couplingtype 
+\i (00:14:08) FORM fplyrstack lsgrid lprepopup 2,couplingtype 
+\i (00:14:09) FORM fplyrstack lsgrid change 2,couplingtype EDGE 
+\i (00:14:13) FORM fplyrstack lsgrid lprepopup 2,couplingtype 
+\i (00:14:13) FORM fplyrstack lsgrid cell 2,couplingtype 
+\i (00:14:14) FORM fplyrstack lsgrid change 2,couplingtype NONE 
+\i (00:14:16) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:14:21) FORM fplyrstack lsgrid change 2,linewidth 120.0 
+\i (00:14:22) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:14:23) FORM fplyrstack lsgrid cell 3,linewidth 
+\i (00:14:27) FORM fplyrstack lsgrid cell 2,dielectric 
+\i (00:14:30) FORM fplyrstack lsgrid lprepopup 2,type 
+\i (00:14:31) FORM fplyrstack lsgrid cell 2,type 
+\i (00:14:33) FORM fplyrstack lsgrid cell 2,dielectric 
+\i (00:14:36) FORM fplyrstack lsgrid change 2,dielectric 1 
+\i (00:14:41) FORM fplyrstack lsgrid cell 4,dielectric 
+\i (00:14:43) FORM fplyrstack lsgrid change 4,dielectric 1 
+\i (00:14:46) FORM fplyrstack lsgrid cell 4,losstangent 
+\i (00:14:47) FORM fplyrstack lsgrid cell 3,losstangent 
+\i (00:14:56) FORM fplyrstack lsgrid lprepopup 2,type 
+\i (00:14:56) FORM fplyrstack lsgrid cell 2,type 
+\i (00:14:58) FORM fplyrstack lsgrid cell 2,thickness 
+\i (00:15:03) FORM fplyrstack lsgrid cell 2,name 
+\i (00:15:09) FORM fplyrstack lsgrid cell 2,neg 
+\i (00:15:09) FORM fplyrstack lsgrid change 2,neg yes 
+\i (00:15:10) FORM fplyrstack lsgrid cell 2,neg 
+\i (00:15:10) FORM fplyrstack lsgrid change 2,neg no 
+\i (00:15:11) FORM fplyrstack lsgrid cell 2,losstangent 
+\i (00:15:13) FORM fplyrstack lsgrid cell 3,losstangent 
+\i (00:15:20) FORM fplyrstack lsgrid lprepopup 3,type 
+\i (00:15:20) FORM fplyrstack lsgrid cell 3,type 
+\i (00:15:22) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:15:24) FORM fplyrstack lsgrid cell 3,dielectric 
+\i (00:15:26) FORM fplyrstack lsgrid cell 3,losstangent 
+\i (00:15:30) FORM fplyrstack lsgrid rprepopup 3,losstangent 
+\i (00:15:38) FORM fplyrstack lsgrid cell 4,shield 
+\i (00:15:38) FORM fplyrstack lsgrid change 4,shield no 
+\i (00:15:41) FORM fplyrstack lsgrid cell 4,shield 
+\i (00:15:41) FORM fplyrstack lsgrid change 4,shield yes 
+\i (00:15:41) FORM fplyrstack lsgrid cell 4,shield 
+\i (00:15:41) FORM fplyrstack lsgrid change 4,shield no 
+\i (00:16:08) setwindow pcb
+\i (00:16:08) xsection 
+\i (00:16:28) setwindow form.fplyrstack
+\i (00:16:28) FORM fplyrstack lsgrid lprepopup 3,type 
+\i (00:16:28) FORM fplyrstack lsgrid cell 3,type 
+\i (00:16:38) FORM fplyrstack selectmaterial FR-4 
+\i (00:16:48) FORM fplyrstack lsgrid lprepopup 3,type 
+\i (00:16:49) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:16:54) FORM fplyrstack showdiffimpedance NO 
+\i (00:17:02) FORM fplyrstack lsgrid lprepopup 3,material 
+\i (00:17:02) FORM fplyrstack lsgrid cell 3,material 
+\i (00:17:22) FORM fplyrstack lsgrid cell 1,thickness 
+\i (00:17:22) FORM fplyrstack lsgrid cell 2,thickness 
+\i (00:17:26) FORM fplyrstack lsgrid change 2,thickness 1 
+\i (00:17:26) FORM fplyrstack lsgrid cell 4,thickness 
+\i (00:17:30) FORM fplyrstack lsgrid change 4,thickness 1 
+\i (00:17:30) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:17:32) FORM fplyrstack lsgrid cell 5,electric 
+\i (00:17:33) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:17:37) FORM fplyrstack lsgrid change 2,impedance 50 
+   (00:17:37) "Unable to compute a line width that creates an impedance of 50 ohmon layer TOP"
+\i (00:17:38) fillin confirm
+\i (00:17:39) FORM fplyrstack lsgrid cell 3,linewidth 
+\i (00:17:56) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:18:01) FORM fplyrstack lsgrid change 2,impedance 100 
+   (00:18:01) "Unable to compute a line width that creates an impedance of 100 ohmon layer TOP"
+\i (00:18:02) fillin confirm
+\i (00:18:04) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:18:09) FORM fplyrstack lsgrid change 2,impedance 25 
+   (00:18:09) "Unable to compute a line width that creates an impedance of 25 ohmon layer TOP"
+\i (00:18:10) fillin confirm
+\i (00:18:25) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:18:31) FORM fplyrstack lsgrid change 2,impedance 52.0 
+   (00:18:31) "Unable to compute a line width that creates an impedance of 52 ohmon layer TOP"
+\i (00:18:36) fillin confirm
+\i (00:18:40) FORM fplyrstack showsingleimpedance NO 
+\i (00:18:47) FORM fplyrstack showsingleimpedance YES 
+\i (00:19:42) FORM fplyrstack selectlayertype CONDUCTOR 
+\i (00:19:47) FORM fplyrstack selectfield Width 
+\i (00:19:51) FORM fplyrstack apply  
+\i (00:20:22) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:20:27) FORM fplyrstack lsgrid cell 2,name 
+\i (00:20:35) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:20:41) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:20:46) FORM fplyrstack lsgrid change 2,linewidth 130 
+\i (00:21:14) setwindow pcb
+\i (00:21:14) xsection 
+\i (00:21:42) setwindow form.fplyrstack
+\i (00:21:42) FORM fplyrstack cancel  
+\i (00:21:42) setwindow pcb
+\i (00:21:42) etchedit 
+\i (00:21:52) define property 
+\i (00:21:52) etchedit 
+\i (00:21:57) setwindow form.dpr_select
+\i (00:21:57) FORM dpr_select prop_list VIAARRAYID 
+\i (00:21:58) FORM dpr_select prop_list SQ_LINE_WIDTH_VALUES 
+\i (00:22:00) FORM dpr_select prop_list VIAARRAYID 
+\i (00:22:00) FORM dpr_select prop_list MAX_FILENAME_VALUE 
+\i (00:22:01) FORM dpr_select prop_list MAX_BRANCHES 
+\i (00:22:02) FORM dpr_select prop_list DIFF_IMPEDANCE_RULE_TOL 
+\i (00:22:04) FORM dpr_select prop_list DIFF_IMPEDANCE_RULE 
+\i (00:22:16) setwindow pcb
+\i (00:22:16) define embedded layer 
+\i (00:22:19) fillin confirm
+\i (00:22:23) etchedit 
+\i (00:22:27) define materials 
+\i (00:22:33) setwindow form.fpDefineMaterials
+\i (00:22:33) FORM fpDefineMaterials materialsgrid cell 1,3 
+\i (00:22:34) FORM fpDefineMaterials materialsgrid cell 2,4 
+\i (00:22:39) FORM fpDefineMaterials materialsgrid cell 4,2 
+\i (00:22:39) FORM fpDefineMaterials materialsgrid cell 5,2 
+\i (00:22:43) FORM fpDefineMaterials materialsgrid cell 10,2 
+\i (00:22:45) FORM fpDefineMaterials materialsgrid cell 10,4 
+\i (00:22:50) FORM fpDefineMaterials reloadmaterals  
+\i (00:23:17) FORM fpDefineMaterials materialsgrid cell 1,7 
+\i (00:23:28) FORM fpDefineMaterials done  
+\i (00:23:28) setwindow pcb
+\i (00:23:28) etchedit 
+\i (00:23:34) define property 
+\i (00:23:34) etchedit 
+\i (00:23:58) xsection 
+\i (00:24:05) setwindow form.fplyrstack
+\i (00:24:05) FORM fplyrstack lsgrid cell 1,number 
+\i (00:25:09) setwindow pcb
+\i (00:25:09) define materials 
+\i (00:25:38) setwindow form.fpDefineMaterials
+\i (00:25:38) FORM fpDefineMaterials materialsgrid cell 2,2 
+\i (00:25:40) FORM fpDefineMaterials materialsgrid cell 3,2 
+\i (00:25:41) FORM fpDefineMaterials materialsgrid cell 3,7 
+\i (00:25:46) FORM fpDefineMaterials materialsgrid cell 2,7 
+\i (00:25:46) FORM fpDefineMaterials materialsgrid cell 1,7 
+\i (00:25:50) FORM fpDefineMaterials materialsgrid cell 1,6 
+\i (00:25:51) FORM fpDefineMaterials materialsgrid cell 1,5 
+\i (00:26:11) FORM fpDefineMaterials materialsgrid cell 4,5 
+\i (00:26:11) FORM fpDefineMaterials materialsgrid cell 9,5 
+\i (00:26:12) FORM fpDefineMaterials materialsgrid cell 14,5 
+\i (00:26:18) FORM fpDefineMaterials materialsgrid rpopup 0,5 'Freq Dep File' 
+\i (00:26:24) FORM fpDefineMaterials materialsgrid rpopup 0,7 'Freq Dep File' 
+\i (00:26:31) FORM fpDefineMaterials materialsgrid rpopup 0,1 'Dielectric Constant' 
+\i (00:27:11) FORM fpDefineMaterials cancel  
+\i (00:27:11) setwindow pcb
+\i (00:27:11) etchedit 
+\i (00:27:14) xsection 
+\i (00:27:21) setwindow form.fplyrstack
+\i (00:27:21) FORM fplyrstack refresh Electrical Conductivity 
+\i (00:27:28) FORM fplyrstack refresh Freqency Dependent File 
+\i (00:28:01) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:28:05) FORM fplyrstack lsgrid change 2,impedance 50 
+   (00:28:05) "Unable to compute a line width that creates an impedance of 50 ohmon layer TOP"
+\i (00:32:26) fillin confirm
+\i (00:32:28) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:32:32) FORM fplyrstack lsgrid change 2,linewidth 125 
+\i (00:38:45) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:38:46) FORM fplyrstack lsgrid cell 2,impedance 
+\i (00:38:51) FORM fplyrstack lsgrid change 2,impedance 50.780 
+   (00:38:51) "Unable to compute a line width that creates an impedance of 50.78 ohmon layer TOP"
+\i (00:38:54) fillin confirm
+\i (00:38:55) FORM fplyrstack showsingleimpedance NO 
+\i (00:38:58) FORM fplyrstack showsingleimpedance YES 
+\i (00:39:13) FORM fplyrstack lsgrid rprepopup 2,linewidth 
+\i (00:39:15) FORM fplyrstack lsgrid rprepopup 2,linewidth 
+\i (00:39:16) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:39:22) FORM fplyrstack lsgrid change 2,linewidth 126.0 
+\i (00:39:28) FORM fplyrstack lsgrid cell 3,thickness 
+\i (00:39:31) FORM fplyrstack lsgrid change 3,thickness 15 
+\i (00:39:32) FORM fplyrstack lsgrid cell 4,thickness 
+\i (00:39:33) FORM fplyrstack lsgrid cell 2,linewidth 
+\i (00:39:40) FORM fplyrstack lsgrid change 2,linewidth 25 
+\i (00:42:59) FORM fplyrstack lsgrid lprepopup 2,material 
+\i (00:42:59) FORM fplyrstack lsgrid cell 2,material 
+\i (00:43:02) FORM fplyrstack cancel  
+\i (00:43:02) setwindow pcb
+\i (00:43:02) etchedit 
+\i (00:43:04) zoom in 1 
+\i (00:43:04) setwindow pcb
+\i (00:43:04) zoom in 3224.6 1417.0
+\t (00:43:04) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:43:04) trapsize 155
+\i (00:43:04) zoom in 1 
+\i (00:43:04) setwindow pcb
+\i (00:43:04) zoom in 3168.9 1429.4
+\i (00:43:04) trapsize 77
+\i (00:43:04) zoom in 1 
+\i (00:43:04) setwindow pcb
+\i (00:43:04) zoom in 3156.6 1437.2
+\t (00:43:04) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:43:04) trapsize 39
+\i (00:43:04) zoom in 1 
+\i (00:43:04) setwindow pcb
+\i (00:43:04) zoom in 3152.7 1441.9
+\i (00:43:04) trapsize 19
+\i (00:43:04) zoom in 1 
+\i (00:43:04) setwindow pcb
+\i (00:43:04) zoom in 3152.4 1443.4
+\i (00:43:04) trapsize 10
+\i (00:43:05) zoom out 1 
+\i (00:43:05) setwindow pcb
+\i (00:43:05) zoom out 3151.8 1447.7
+\i (00:43:05) trapsize 19
+\i (00:43:05) zoom out 1 
+\i (00:43:05) setwindow pcb
+\i (00:43:05) zoom out 3151.7 1447.7
+\i (00:43:05) trapsize 39
+\i (00:43:05) zoom out 1 
+\i (00:43:05) setwindow pcb
+\i (00:43:05) zoom out 3151.7 1447.6
+\t (00:43:05) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:43:05) trapsize 77
+\i (00:43:06) zoom out 1 
+\i (00:43:06) setwindow pcb
+\i (00:43:06) zoom out 3170.4 1495.7
+\i (00:43:06) trapsize 155
+\i (00:43:06) zoom out 1 
+\i (00:43:06) setwindow pcb
+\i (00:43:06) zoom out 3173.5 1474.0
+\t (00:43:06) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:43:06) trapsize 310
+\i (00:43:06) zoom out 1 
+\i (00:43:06) setwindow pcb
+\i (00:43:06) zoom out 3253.9 1436.8
+\i (00:43:06) trapsize 620
+\i (00:43:06) zoom out 1 
+\i (00:43:06) setwindow pcb
+\i (00:43:06) zoom out 2912.6 1300.6
+\t (00:43:06) Grids are drawn 256.0, 256.0 apart for enhanced viewability.
+\i (00:43:06) trapsize 1239
+\i (00:43:07) zoom in 1 
+\i (00:43:07) setwindow pcb
+\i (00:43:07) zoom in 5810.4 -507.2
+\t (00:43:07) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:43:07) trapsize 620
+\i (00:43:07) zoom in 1 
+\i (00:43:07) setwindow pcb
+\i (00:43:07) zoom in 2912.6 -507.2
+\i (00:43:07) trapsize 310
+\i (00:43:07) zoom in 1 
+\i (00:43:07) setwindow pcb
+\i (00:43:07) zoom in 2912.6 -507.2
+\t (00:43:07) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:43:07) trapsize 155
+\i (00:43:07) zoom out 1 
+\i (00:43:07) setwindow pcb
+\i (00:43:07) zoom out 2633.8 -116.9
+\t (00:43:07) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:43:07) trapsize 310
+\i (00:43:07) zoom out 1 
+\i (00:43:07) setwindow pcb
+\i (00:43:07) zoom out 2633.7 -123.0
+\i (00:43:07) trapsize 620
+\i (00:43:07) zoom out 1 
+\i (00:43:07) setwindow pcb
+\i (00:43:07) zoom out 1797.4 -259.3
+\t (00:43:07) Grids are drawn 256.0, 256.0 apart for enhanced viewability.
+\i (00:43:07) trapsize 1239
+\i (00:43:07) zoom out 1 
+\i (00:43:07) setwindow pcb
+\i (00:43:07) zoom out 3604.9 482.5
+\i (00:43:07) trapsize 1351
+\i (00:43:08) zoom in 1 
+\i (00:43:08) setwindow pcb
+\i (00:43:08) zoom in 3621.6 1837.8
+\t (00:43:08) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:43:08) trapsize 676
+\i (00:43:09) zoom in 1 
+\i (00:43:09) setwindow pcb
+\i (00:43:09) zoom in 4459.4 1783.8
+\i (00:43:09) trapsize 338
+\i (00:43:10) zoom in 1 
+\i (00:43:10) setwindow pcb
+\i (00:43:10) zoom in 3648.6 1560.9
+\t (00:43:10) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:43:10) trapsize 169
+\i (00:43:11) zoom out 1 
+\i (00:43:11) setwindow pcb
+\i (00:43:11) zoom out 3746.5 1490.0
+\t (00:43:11) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:43:11) trapsize 338
+\i (00:43:13) exit 
+\e (00:43:13) Do you want to save the changes you made to controller.brd?
+\i (00:43:15) fillin no 
+\t (00:43:15)     Journal end - Wed Mar 19 21:41:50 2014

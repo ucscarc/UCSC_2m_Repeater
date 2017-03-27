@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : controller.brd                                )
+(    Software Version : 16.3S021                                      )
+(    Date/Time        : Fri Apr 29 12:11:07 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'C:/Cadence/SPB_16.3/share/pcb/text/nclegend/default-mil.dlt' ...
+End of drill legend template file processing.
+Begin processing of drill legend template file 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/default-mil_small.dlt' ...
+End of drill legend template file processing.
+
+Begin processing drill holes.
+Warning : Hole 28.0-0.0-C-P-0.0-0.0 uses multiple drill figures.
+End processing drill holes.

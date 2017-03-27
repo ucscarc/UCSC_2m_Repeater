@@ -1,0 +1,16 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Shape Island Report                                 )
+(                                                            )
+(        Drawing          : 6_cmpe174tutorial.brd            )
+(        Software Version : 16.2p005                         )
+(        Date/Time        : Sun Oct 18 20:29:27 2009         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  Layer = BOTTOM
+	Point on shape: (10558.1 5498.2)  Net: GND

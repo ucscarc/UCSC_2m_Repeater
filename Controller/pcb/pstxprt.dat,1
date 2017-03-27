@@ -1,0 +1,1664 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.3.0 p002May-29-2011 at 23:01:39 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CONTROLLER';
+ POST_TIME='Nov 29 2010 15:06:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14265983@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14265983@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14265983@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C POL_EIAB_SMCT3528_12_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14255080@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14255080@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14255080@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C POL_EIAB_SMCT3528_12_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14258196@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14258196@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14258196@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C POL_EIAB_SMCT3528_12_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14252822@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14252822@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14252822@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C NP_SMC0805_100PF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14252838@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14252838@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14252838@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14315369@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14315369@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14315369@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C POL_EIAB_SMCT3528_12_1UF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244473@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244473@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244473@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14307613@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14307613@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14307613@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14385124@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14385124@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14385124@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14316514@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14316514@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14316514@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'C POL_EIAB_SMCT3528_12_1UF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244707@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244707@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244707@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14298188@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14298188@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14298188@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'C POL_CYLD350LS250_35D_100UF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14298385@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14298385@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14298385@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14352841@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14352841@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14352841@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C POL_CYLD350LS250_35D_100UF/20':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14266157@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14266157@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14266157@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'C POL_CYLD500LS200_42D_1000UF/3':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14384623@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14384623@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14384623@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'C NP_SMC0805_470N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14384819@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14384819@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14384819@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'C POL_EIAB_SMCT3528_12_1UF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14384847@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14384847@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14384847@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'C POL_EIAB_SMCT3528_12_1.0UF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14389775@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14389775@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14389775@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14395693@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14395693@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14395693@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'C POL_EIAB_SMCT3528_12_22UF/TAN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14389889@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14389889@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14389889@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'C SMALL_SMC0805_10P':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14550832@CMPE174REFLIB_COMPLETE.C SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14550832@cmpe174reflib_complete.\c small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14550832@cmpe174reflib_complete.\c small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'C SMALL_SMC0805_100NF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14578476@CMPE174REFLIB_COMPLETE.C SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14578476@cmpe174reflib_complete.\c small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14578476@cmpe174reflib_complete.\c small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C POL_EIAB_SMCT3528_12_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14266075@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14266075@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14266075@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C NP_SMC0805_100PF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14266099@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14266099@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14266099@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14213353@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14213353@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14213353@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14278773@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14278773@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14278773@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C NP_SMC0805_100N':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14336110@CMPE174REFLIB_COMPLETE.C NP.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14336110@cmpe174reflib_complete.\c np.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14336110@cmpe174reflib_complete.\c np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C POL_C_200D_100LS_28D_10UF':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14385425@CMPE174REFLIB_COMPLETE.C POL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14385425@cmpe174reflib_complete.\c pol.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14385425@cmpe174reflib_complete.\c pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE SCHOTTKY_0_DAX400_42D_1N5':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14363991@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14363991@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14363991@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_SMD_0805_21_RED':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14351256@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14351256@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14351256@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LED_SMD_0805_21_BLU':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14323825@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14323825@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14323825@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_SMD_0805_21_YEL':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14321820@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14321820@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14321820@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'LED_SMD_0805_21_YEL':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14322312@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14322312@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14322312@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'LED_SMD_0805_21_YEL':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14322632@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14322632@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14322632@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D15 'LED_SMD_0805_21_GRN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14322937@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14322937@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14322937@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D16 'LED_SMD_0805_21_RED':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14323096@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14323096@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14323096@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D17 'LED_SMD_0805_21_BLU':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14323152@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14323152@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14323152@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D18 'DIODE SCHOTTKY_0_DAX400_42D_1N5':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14545751@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14545751@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14545751@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D19 'LED_SMD_0805_21_GRN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14386846@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14386846@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14386846@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE SCHOTTKY_0_DAX400_42D_1N5':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14357320@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14357320@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14357320@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D20 'DIODE SCHOTTKY_0_DAX400_42D_1N5':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14390242@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14390242@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14390242@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D21 'DIODE SCHOTTKY_0_DAX400_42D_1N5':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14390550@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14390550@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14390550@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D22 'DIODE SCHOTTKY_0_DAX600_60D_SB1':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14518308@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14518308@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14518308@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D23 'LED_SMD_0805_21_BLU':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14574865@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14574865@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14574865@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D24 'LED_SMD_0805_21_RED':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14419920@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14419920@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14419920@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D25 'DIODE ZENER_DAX400_35D_1N5240B':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14427189@LIBRARY1.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14427189@library1.\diode zener.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14427189@library1.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D26 'DIODE ZENER_DAX400_35D_1N5240B':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14555401@LIBRARY1.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14555401@library1.\diode zener.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14555401@library1.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE SCHOTTKY_0_DAX400_42D_1N5':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14357336@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14357336@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14357336@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE SCHOTTKY_0_DAX400_42D_1N5':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14311046@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14311046@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14311046@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE SCHOTTKY_0_DAX400_42D_1N5':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14319199@CONTROLLER_0_51.DIODE SCHOTTKY_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14319199@controller_0_51.\diode schottky_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14319199@controller_0_51.\diode schottky_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_SMD_0805_21_RED':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14367890@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14367890@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14367890@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'DIODE_2_DAX400_42D_1N4002':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244289@CONTROLLER.DIODE_2.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244289@controller.\diode_2.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244289@controller.\diode_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_SMD_0805_21_GRN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14321784@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14321784@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14321784@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_SMD_0805_21_GRN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14321802@CMPE174REFLIB_COMPLETE.LED.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14321802@cmpe174reflib_complete.\led.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14321802@cmpe174reflib_complete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSEHOLDER_2_3AG_250_1250_2.5A':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244039@CONTROLLER_0_6.FUSEHOLDER_2.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244039@controller_0_6.\fuseholder_2.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244039@controller_0_6.\fuseholder_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONNECTOR DB9_2_BCON2DB9_5X2V_1':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14208486@CONTROLLER_0_53.CONNECTOR DB9_2.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14208486@controller_0_53.\connector db9_2.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14208486@controller_0_53.\connector db9_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'HEADER 2_4_BLKCON156_VHTM1SQ_SW':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14384573@CONTROLLER_0_6.HEADER 2_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14384573@controller_0_6.\header 2_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14384573@controller_0_6.\header 2_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 '2PIN HEADER_BCON_2X1V_100S_1SQ_':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14431764@CMPE174REFLIB_COMPLETE.2PIN HEADER.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14431764@cmpe174reflib_complete.\2pin header.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14431764@cmpe174reflib_complete.\2pin header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONNECTOR DB9_1_BCON2DB9_5X2V_1':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14208540@CONTROLLER_0_51.CONNECTOR DB9_1.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14208540@controller_0_51.\connector db9_1.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14208540@controller_0_51.\connector db9_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CONNECTOR DB9_1_BCON2DB9_5X2V_1':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14249259@CONTROLLER_0_51.CONNECTOR DB9_1.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14249259@controller_0_51.\connector db9_1.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14249259@controller_0_51.\connector db9_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 '2X10HEADER_1_BCON2DB9_5X2V_100S':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14208985@CONTROLLER_0_6.2X10HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14208985@controller_0_6.\2x10header_1.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14208985@controller_0_6.\2x10header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 '2PIN HEADER_BCON_2X1V_100S_1SQ_':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14335554@CMPE174REFLIB_COMPLETE.2PIN HEADER.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14335554@cmpe174reflib_complete.\2pin header.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14335554@cmpe174reflib_complete.\2pin header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 '2PIN HEADER_BCON_2X1V_100S_1SQ_':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244115@CMPE174REFLIB_COMPLETE.2PIN HEADER.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244115@cmpe174reflib_complete.\2pin header.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244115@cmpe174reflib_complete.\2pin header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 2_4_BLKCON156_VHTM1SQ_SW':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14433071@CONTROLLER_0_6.HEADER 2_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14433071@controller_0_6.\header 2_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14433071@controller_0_6.\header 2_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'CONNECTOR DB25_BCON2DB25_13X2V_':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14350404@CONNECTOR.CONNECTOR DB25.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14350404@connector.\connector db25.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14350404@connector.\connector db25.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '2N2222_TO92R100_2N2222':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14543294@TRANSISTOR.2N2222.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14543294@transistor.\2n2222.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14543294@transistor.\2n2222.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'IRF9Z34_TO220_H1234_IRF9Z34':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244127@LOCALPROJECT.IRF9Z34.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244127@localproject.\irf9z34.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244127@localproject.\irf9z34.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 '2N2222_TO92R100_2N2222':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14365964@TRANSISTOR.2N2222.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14365964@transistor.\2n2222.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14365964@transistor.\2n2222.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 '2N2222_TO92R100_2N2222':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14365946@TRANSISTOR.2N2222.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14365946@transistor.\2n2222.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14365946@transistor.\2n2222.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 '2N2222_TO92R100_2N2222':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14365928@TRANSISTOR.2N2222.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14365928@transistor.\2n2222.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14365928@transistor.\2n2222.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 '2N3906_TO92R100_2N3906':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14551142@TRANSISTOR.2N3906.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14551142@transistor.\2n3906.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14551142@transistor.\2n3906.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RPOT_4_VRES18_35D_100K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14363431@CONTROLLER_0_6.RPOT_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14363431@controller_0_6.\rpot_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14363431@controller_0_6.\rpot_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R SMALL_0_SMR0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14283279@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14283279@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14283279@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R SMALL_0_SMR0805_47K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14282988@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14282988@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14282988@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R SMALL_0_SMR0805_47K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14282654@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14282654@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14282654@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R SMALL_0_SMR0805_47K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14282638@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14282638@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14282638@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R SMALL_0_SMR0805_51K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14255064@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14255064@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14255064@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RPOT_4_VRES18_35D_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14272816@CONTROLLER_0_6.RPOT_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14272816@controller_0_6.\rpot_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14272816@controller_0_6.\rpot_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R SMALL_0_SMR0805_51K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14252666@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14252666@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14252666@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R SMALL_0_SMR0805_51K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14252798@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14252798@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14252798@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_SMR0805_39K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244523@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244523@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244523@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_SMR0805_1M':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244589@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244589@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244589@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R SMALL_0_SMR0805_51K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14266055@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14266055@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14266055@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RPOT_4_VRES9_35D_10K/10T':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244489@CONTROLLER_0_6.RPOT_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244489@controller_0_6.\rpot_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244489@controller_0_6.\rpot_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_SMR0805_6.2K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244551@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244551@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244551@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R SMALL_SMR0805_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14310713@MINIBUOY.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14310713@minibuoy.\r small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14310713@minibuoy.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_SMR0805_1M':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14307560@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14307560@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14307560@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_SMR0805_39K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244791@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244791@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244791@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R SMALL_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14367855@MINIBUOY.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14367855@minibuoy.\r small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14367855@minibuoy.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R SMALL_SMR0805_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14318984@MINIBUOY.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14318984@minibuoy.\r small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14318984@minibuoy.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_SMR0805_1M':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244221@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244221@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244221@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R SMALL_SMR0805_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14365996@MINIBUOY.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14365996@minibuoy.\r small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14365996@minibuoy.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RPOT_4_VRES9_35D_10K/10T':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244755@CONTROLLER_0_6.RPOT_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244755@controller_0_6.\rpot_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244755@controller_0_6.\rpot_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R SMALL_0_SMR0805_51K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14265931@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14265931@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14265931@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R SMALL_SMR0805_2K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14427519@MINIBUOY.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14427519@minibuoy.\r small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14427519@minibuoy.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_SMR0805_6.2K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244687@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244687@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244687@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_SMR0805_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14366717@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14366717@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14366717@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_SMR0805_1M':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14298466@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14298466@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14298466@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_SMR0805_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14366653@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14366653@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14366653@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R SMALL_0_SMR0805_620':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14302717@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14302717@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14302717@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R SMALL_0_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14345164@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14345164@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14345164@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R SMALL_0_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14302733@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14302733@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14302733@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14359094@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14359094@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14359094@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14358964@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14358964@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14358964@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R SMALL_SMR0805_47K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14550406@MINIBUOY.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14550406@minibuoy.\r small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14550406@minibuoy.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14358984@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14358984@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14358984@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R SMALL_0_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14351272@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14351272@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14351272@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14359000@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14359000@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14359000@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14359016@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14359016@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14359016@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14359032@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14359032@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14359032@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14323841@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14323841@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14323841@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14359048@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14359048@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14359048@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14359213@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14359213@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14359213@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R SMALL_0_SMR0805_47K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14352798@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14352798@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14352798@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R SMALL_0_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14302663@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14302663@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14302663@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_SMR0805_22K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14212687@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14212687@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14212687@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R SMALL_0_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14322328@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14322328@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14322328@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R SMALL_0_SMR0805_10K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14326981@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14326981@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14326981@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R SMALL_0_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14322652@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14322652@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14322652@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R SMALL_0_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14322953@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14322953@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14322953@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R SMALL_0_SMR0805_330':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14323112@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14323112@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14323112@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14323168@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14323168@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14323168@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R SMALL_0_SMR0805_1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14574881@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14574881@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14574881@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_SMR0805_680K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14578592@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14578592@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14578592@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R SMALL_SMR0805_220K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14431486@MINIBUOY.R SMALL.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14431486@minibuoy.\r small.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14431486@minibuoy.\r small.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_SMR0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14543437@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14543437@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14543437@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RPOT_4_VRES9_35D_10K/10T':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14212423@CONTROLLER_0_6.RPOT_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14212423@controller_0_6.\rpot_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14212423@controller_0_6.\rpot_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R SMALL_0_SMR0805_620':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14386866@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14386866@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14386866@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'R SMALL_0_SMR0805_10K 1%':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14389707@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14389707@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14389707@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R SMALL_0_SMR0805_10K 1%':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14389727@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14389727@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14389727@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'R SMALL_0_SMR0805_470':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14496366@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14496366@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14496366@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R SMALL_0_SMR0805_9.1K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14335462@CONTROLLER_0_6.R SMALL_0.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14335462@controller_0_6.\r small_0.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14335462@controller_0_6.\r small_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_SMR0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14550926@EE103.R.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14550926@ee103.\r.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14550926@ee103.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RPOT_4_VRES9_35D_10K/10T':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14273550@CONTROLLER_0_6.RPOT_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14273550@controller_0_6.\rpot_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14273550@controller_0_6.\rpot_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON_4_B3F-1000_38D_SW':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14338447@CONTROLLER_0_6.SW PUSHBUTTON_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14338447@controller_0_6.\sw pushbutton_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14338447@controller_0_6.\sw pushbutton_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT_BCON_1X1V_SQ_42D_TEST':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244807@LIBRARY1.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244807@library1.\testpoint.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244807@library1.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPOINT_BCON_1X1V_SQ_42D_TEST':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244781@LIBRARY1.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244781@library1.\testpoint.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244781@library1.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TESTPOINT_BCON_1X1V_SQ_42D_TEST':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14434892@LIBRARY1.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14434892@library1.\testpoint.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14434892@library1.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TESTPOINT_BCON_1X1V_SQ_42D_TEST':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14434902@LIBRARY1.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14434902@library1.\testpoint.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14434902@library1.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TL082_2_DIP100_8_W300_L400_TL08':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14265905@CONTROLLER.TL082_2.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14265905@controller.\tl082_2.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14265905@controller.\tl082_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14252640@CONTROLLER.TL082_2.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14252640@controller.\tl082_2.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14252640@controller.\tl082_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U10 '78L05/TO92_4_SOT223_1234_LM2940':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14389811@CONTROLLER_0_6.78L05/TO92_4.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14389811@controller_0_6.\78l05/to92_4.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14389811@controller_0_6.\78l05/to92_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 '74HC123_8_DIP100_16_W300_L800_7':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14296033@CONTROLLER.74HC123_8.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14296033@controller.\74hc123_8.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14296033@controller.\74hc123_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14304643@CONTROLLER.74HC123_8.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14304643@controller.\74hc123_8.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14304643@controller.\74hc123_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U2 '74HC00_18_DIP100_14_W300_L700_7':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14275209@CONTROLLER.74HC00_18.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14275209@controller.\74hc00_18.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14275209@controller.\74hc00_18.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14275135@CONTROLLER.74HC00_18.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14275135@controller.\74hc00_18.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14275135@controller.\74hc00_18.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14276551@CONTROLLER.74HC00_18.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14276551@controller.\74hc00_18.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14276551@controller.\74hc00_18.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14277011@CONTROLLER.74HC00_18.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14277011@controller.\74hc00_18.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14277011@controller.\74hc00_18.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ U3 '74HC00_18_DIP100_14_W300_L700_7':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14335167@CONTROLLER.74HC00_18.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14335167@controller.\74hc00_18.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14335167@controller.\74hc00_18.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14333395@CONTROLLER.74HC00_18.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14333395@controller.\74hc00_18.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14333395@controller.\74hc00_18.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14347974@CONTROLLER.74HC00_18.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14347974@controller.\74hc00_18.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14347974@controller.\74hc00_18.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14340253@CONTROLLER.74HC00_18.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14340253@controller.\74hc00_18.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page1_ins14340253@controller.\74hc00_18.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ U4 'LM324/DIP_3_DIP100_14_W300_L700':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244665@CONTROLLER.LM324/DIP_3.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244665@controller.\lm324/dip_3.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244665@controller.\lm324/dip_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244389@CONTROLLER.LM324/DIP_3.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244389@controller.\lm324/dip_3.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244389@controller.\lm324/dip_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244567@CONTROLLER.LM324/DIP_3.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244567@controller.\lm324/dip_3.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244567@controller.\lm324/dip_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14244149@CONTROLLER.LM324/DIP_3.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14244149@controller.\lm324/dip_3.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14244149@controller.\lm324/dip_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ U5 '74HC74_6_DIP100_14_W300_L700_74':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14305548@CONTROLLER.74HC74_6.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14305548@controller.\74hc74_6.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14305548@controller.\74hc74_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14313504@CONTROLLER.74HC74_6.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14313504@controller.\74hc74_6.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14313504@controller.\74hc74_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U6 '74HC14_DIP100_14_W300_L700_74HC':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14492802@LOCALPROJECT.74HC14.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14492802@localproject.\74hc14.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14492802@localproject.\74hc14.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14493118@LOCALPROJECT.74HC14.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14493118@localproject.\74hc14.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page2_ins14493118@localproject.\74hc14.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14491745@LOCALPROJECT.74HC14.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14491745@localproject.\74hc14.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14491745@localproject.\74hc14.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14492038@LOCALPROJECT.74HC14.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14492038@localproject.\74hc14.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14492038@localproject.\74hc14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14492624@LOCALPROJECT.74HC14.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14492624@localproject.\74hc14.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14492624@localproject.\74hc14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14492399@LOCALPROJECT.74HC14.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14492399@localproject.\74hc14.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14492399@localproject.\74hc14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+PART_NAME
+ U7 '74HC05_9_DIP100_14_W300_L700_74':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14485409@CONTROLLER.74HC05_9.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14485409@controller.\74hc05_9.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14485409@controller.\74hc05_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14478119@CONTROLLER.74HC05_9.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14478119@controller.\74hc05_9.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14478119@controller.\74hc05_9.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14485474@CONTROLLER.74HC05_9.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14485474@controller.\74hc05_9.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14485474@controller.\74hc05_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14478205@CONTROLLER.74HC05_9.CONVERT(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14478205@controller.\74hc05_9.convert\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14478205@controller.\74hc05_9.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14485606@CONTROLLER.74HC05_9.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14485606@controller.\74hc05_9.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14485606@controller.\74hc05_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14485541@CONTROLLER.74HC05_9.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14485541@controller.\74hc05_9.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page3_ins14485541@controller.\74hc05_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+PART_NAME
+ U9 '78L05/TO92_5_TO220_H1234_7805 /':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.INTERFACE CONTROLLER(SCH_1):INS14384769@CONTROLLER_0_6.78L05/TO92_5.NORMAL(CHIPS)':
+ C_PATH='@controller.\interface controller\(sch_1):ins14384769@controller_0_6.\78l05/to92_5.normal\(chips)',
+ P_PATH='@controller.\interface controller\(sch_1):page4_ins14384769@controller_0_6.\78l05/to92_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

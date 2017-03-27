@@ -1,0 +1,16 @@
+Combined Tool Use Report
+Date:  Sun May 01 16:04:05 2011
+Units: Inches
+
+Tool      Size    Type    Usage       Legend      Uses
+====      ====    ====    ======      ======      ====
+T1       0.020    Drill   Plated      A            215
+T2       0.028    Drill   Plated      B             39
+T3       0.035    Drill   Plated      C            170
+T4       0.038    Drill   Plated      D             47
+T5       0.042    Drill   Plated      E             82
+T6       0.070    Drill   Plated      F              4
+T7       0.086    Drill   Plated      G              7
+T8       0.125    Drill   Plated      H             11
+                                                  ====
+                                      TOTAL:       575

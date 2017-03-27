@@ -1,0 +1,23 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Unplaced Symbol Availability Check                  )
+(                                                            )
+(        Drawing          : 8_cmpe174tutorial.brd            )
+(        Software Version : 16.2p005                         )
+(        Date/Time        : Sun Oct 25 18:49:49 2009         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	C:/Cadence/SPB_16.2/share/local/pcb/symbols
+	C:/Cadence/SPB_16.2/share/pcb/pcb_lib/symbols
+	../../lib/symbols
+
+
+All Symbols Found
+
+Total symbols placed:      41 out of 41
+
+

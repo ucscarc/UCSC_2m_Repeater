@@ -1,0 +1,697 @@
+Sun Oct 04 09:34:45 2009				Page     1
+
+Allegro NETLIST IN Log File
+===========================================================
+
+Netlist File Name: 'C:\Academic\UCSC\2009 - 2010\1 - 2009 Fall\CMPE174 F09\Lab~
+oratory\Development\Handset\pcb\HANDSET_V5_3_4.txt'      Layout File Name: 'C:~
+\Academic\UCSC\2009 - 2010\1 - 2009 Fall\CMPE174 F09\Laboratory\Development\Ha~
+ndset\pcb\HANDSET_V5_3_4.brd'
+
+===========================================================
+
+$PACKAGES
+'SMC0805' ! 'C_NP' ; C1
+'SMC0805' ! 'C_NP' ; C2
+'SMC0805' ! 'C_NP' ; C3
+'SMC0805' ! 'C_NP' ; C4
+'SMC0805' ! 'C_NP' ; C5
+'SMC0805' ! 'C_NP' ; C6
+'SMC0805' ! 'C_NP' ; C7
+'AX400X100035' ! 'DIODE_SCHOTTKY' ; D1
+'SMR0805D2' ! 'LED_0' ; D2
+'SMR0805' ! 'LED_0' ; D3
+                     ^
+WARNING(SPMHNI-82): Package symbol 'SMR0805' replaces device file package 'SMR~
+0805D2'.
+-------------------------------------------------------------------------------
+'BLKCON100VHTM2OEW20016J1' ! 'JUMPER8' ; J1
+'BLKCON100VHTM1SQSW10010J2' ! 'CONN_TRBLK_10' ; J2
+'BLKCON100VHTM1SQSW1002J3' ! 'HEADER_2PIN' ; J3
+'BLKCON100VHTM1SQSW10010J4' ! 'CONN_TRBLK_10' ; J4
+                                               ^
+WARNING(SPMHNI-82): Package symbol 'BLKCON100VHTM1SQSW10010J4' replaces device~
+ file package 'BLKCON100VHTM1SQSW10010J2'.
+-------------------------------------------------------------------------------
+'BLKCON100VHTM2OEW2006J5' ! 'JUMPER3_1' ; J5
+'BLKCON100VHTM1SQSW1002J6' ! 'HEADER_2PIN' ; J6
+                                            ^
+WARNING(SPMHNI-82): Package symbol 'BLKCON100VHTM1SQSW1002J6' replaces device ~
+file package 'BLKCON100VHTM1SQSW1002J3'.
+-------------------------------------------------------------------------------
+'SOJ0508WB150L150' ! 'TPS1120_2' ; Q1
+'SMR0805' ! 'R' ; R1
+'SMR0805' ! 'R' ; R2
+'SMR0805' ! 'R' ; R3
+'SMR0805' ! 'R' ; R4
+'SMR0805' ! 'R' ; R5
+'SMR0805' ! 'R' ; R6
+'SMR0805' ! 'R' ; R7
+'SMR0805' ! 'R' ; R8
+'SMR0805' ! 'R' ; R9
+'SMR0805' ! 'R' ; R10
+'SMR0805' ! 'R' ; R11
+'B3F-1000' ! 'SW_PUSHBUTTON_1' ; SW1
+'B3F-1000' ! 'SW_PUSHBUTTON_1' ; SW2
+'B3F-1000' ! 'SW_PUSHBUTTON_1' ; SW3
+'B3F-1000' ! 'SW_PUSHBUTTON_1' ; SW4
+Sun Oct 04 09:34:45 2009				Page     2
+
+
+
+
+'B3F-1000' ! 'SW_PUSHBUTTON_1' ; SW5
+'B3F-1000' ! 'SW_PUSHBUTTON_1' ; SW6
+'B3F-1000' ! 'SW_PUSHBUTTON_1' ; SW7
+'B3F-1000' ! 'SW_PUSHBUTTON_1' ; SW8
+'SPDTEG1206' ! 'SW_SL_SPDT_0' ; SW9
+'DIP10018W300L950' ! 'HT12E_7' ; U1
+'DIP10020W300L975' ! 'ATF16V8B_3' ; U2
+'DIP10014W300L700' ! '74HC00_7' ; U3
+'SMSOT2231234' ! 'LM317A_1' ; U4
+'MTHOLE1' ! 'MTHOLE1' ; 42
+'MTHOLE1' ! 'MTHOLE1' ; 45
+'MTHOLE1' ! 'MTHOLE1' ; 43
+'MTHOLE1' ! 'MTHOLE1' ; 44
+'MTHOLE1' ! 'MTHOLE1' ; 46
+'MTHOLE1' ! 'MTHOLE1' ; 47
+$NETS
+'+4.5V' ; R6.2 U4.2 Q1.3 U2.20 C1.2 C4.1,
+ U4.4 U3.14 C7.2 Q1.1 J6.2 D2.1 U1.18
+'DATA' ; J4.3 U1.17
+'GND' ; C1.1 SW6.1 J1.12 J1.10 SW3.1 C6.2,
+ R10.1 C5.2 C4.2 R5.1 C7.1 U1.9 J1.16,
+ J2.10 R11.1 C3.1 J1.4 J1.8 J1.6 SW4.1,
+ SW7.1 SW2.1 SW1.1 J5.1 J5.3 J1.2 SW8.1,
+ U2.10 J2.1 J2.6 J2.9 J3.2 U3.7 SW5.1,
+ J4.10 J4.9 J5.5 J4.8 J4.2 J4.1 J1.14
+'N01899' ; R4.2 R2.1 C2.2
+'N02111' ; U3.5 R2.2
+'N02889' ; U3.4 U3.9 U2.12
+'N03457' ; U3.13 U3.12 U3.10 U3.1 R4.1 U3.6
+'N05110' ; C3.2 R3.2 U3.2
+'N06112' ; U1.10 U2.19
+'N06207' ; U1.11 U2.18
+'N06302' ; U1.12 U2.17
+'N06397' ; U2.16 U1.13
+'N06981' ; U3.3 U1.14
+'N07810' ; R1.1 U1.15
+'N08179' ; R1.2 U1.16
+'N10727' ; U2.1 SW1.2
+'N10786' ; SW2.2 U2.2
+'N10852' ; SW3.2 U2.3
+'N10918' ; U2.4 SW4.2
+'N10986' ; U2.5 SW5.2
+'N11054' ; U2.6 SW6.2
+'N11122' ; SW7.2 U2.7
+'N11188' ; U2.8 SW8.2
+'N013730' ; U3.8 C2.1
+'N015610' ; R3.1 U3.11
+'N20126' ; J1.1 U1.1
+'N20128' ; J1.3 U1.2
+'N20130' ; J1.5 U1.3
+'N20132' ; J1.7 U1.4
+'N20134' ; J1.9 U1.5
+Sun Oct 04 09:34:45 2009				Page     3
+
+
+
+
+'N20136' ; J1.11 U1.6
+'N20138' ; J1.13 U1.7
+'N20140' ; J1.15 U1.8
+'N23482' ; C5.1 D1.2 U4.3
+'N26767' ; R7.1 J5.2 J2.3
+'N26769' ; R8.1 J4.5 J5.4
+'N28607' ; R9.1 J4.4 J5.6
+'N36210' ; Q1.4 Q1.2 C6.1 U2.15
+'N43192' ; J2.7 J4.6
+'N47466' ; SW9.1 J3.1
+'N47631' ; SW9.3 SW9.2 D1.1
+'N108000' ; R6.1 R5.2 U4.1
+'N113107' ; D2.2 R10.2
+'N505791' ; D3.2 R11.2
+'TXPWR' ; D3.1 J6.1 J2.5 J2.8 Q1.8 Q1.7,
+ Q1.6 Q1.5 R7.2 J2.4 R8.2 R9.2
+$A_PROPERTIES
+$END
+
+===========================================================
+End of NETLIST IN Syntax/Logic Check
+===========================================================
+
+Total Netlist Warnings =  3.
+Total Netlist Errors   =  0.
+Sun Oct 04 09:34:45 2009				Page     1
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page     2
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page     3
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page     4
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page     5
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page     6
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page     7
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page     8
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/diode_schottky.txt'.
+
+
+(DEVICE DESCRIPTION FILE: DIODE_SCHOTTKY)
+PACKAGE AX400X100035
+PACKAGEPROP VALUE '1N5818'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page     9
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/led_0.txt'.
+
+
+(DEVICE DESCRIPTION FILE: LED_0)
+PACKAGE SMR0805D2
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(SMR0805)'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    10
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/led_0.txt'.
+
+
+(DEVICE DESCRIPTION FILE: LED_0)
+PACKAGE SMR0805D2
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(SMR0805)'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    11
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/jumper8.txt'.
+
+
+(DEVICE DESCRIPTION FILE: JUMPER8)
+PACKAGE BLKCON100VHTM2OEW20016J1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 16
+END
+Sun Oct 04 09:34:45 2009				Page    12
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/conn_trblk_10.txt'.
+
+
+(DEVICE DESCRIPTION FILE: CONN_TRBLK_10)
+PACKAGE BLKCON100VHTM1SQSW10010J2
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(BLKCON100VHTM1SQSW10010J4)'
+CLASS IC
+PINCOUNT 10
+END
+Sun Oct 04 09:34:45 2009				Page    13
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/header_2pin.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_2PIN)
+PACKAGE BLKCON100VHTM1SQSW1002J3
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(BLKCON100VHTM1SQSW1002J6)'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    14
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/conn_trblk_10.txt'.
+
+
+(DEVICE DESCRIPTION FILE: CONN_TRBLK_10)
+PACKAGE BLKCON100VHTM1SQSW10010J2
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(BLKCON100VHTM1SQSW10010J4)'
+CLASS IC
+PINCOUNT 10
+END
+Sun Oct 04 09:34:45 2009				Page    15
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/jumper3_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: JUMPER3_1)
+PACKAGE BLKCON100VHTM2OEW2006J5
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 6
+END
+Sun Oct 04 09:34:45 2009				Page    16
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/header_2pin.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HEADER_2PIN)
+PACKAGE BLKCON100VHTM1SQSW1002J3
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(BLKCON100VHTM1SQSW1002J6)'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    17
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/tps1120_2.txt'.
+
+
+(DEVICE DESCRIPTION FILE: TPS1120_2)
+PACKAGE SOJ0508WB150L150
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 8
+END
+Sun Oct 04 09:34:45 2009				Page    18
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    19
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    20
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    21
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    22
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    23
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    24
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    25
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    26
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    27
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    28
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '1M'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun Oct 04 09:34:45 2009				Page    29
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_pushbutton_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON_1)
+PACKAGE B3F-1000
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    30
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_pushbutton_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON_1)
+PACKAGE B3F-1000
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    31
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_pushbutton_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON_1)
+PACKAGE B3F-1000
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    32
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_pushbutton_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON_1)
+PACKAGE B3F-1000
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    33
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_pushbutton_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON_1)
+PACKAGE B3F-1000
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    34
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_pushbutton_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON_1)
+PACKAGE B3F-1000
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    35
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_pushbutton_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON_1)
+PACKAGE B3F-1000
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    36
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_pushbutton_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON_1)
+PACKAGE B3F-1000
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    37
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/sw_sl_spdt_0.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_SL_SPDT_0)
+PACKAGE SPDTEG1206
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 5
+PINORDER SW_SL_SPDT_0 2 3 1 HOLE-1 HOLE-2
+FUNCTION G1 SW_SL_SPDT_0 2 3 1 HOLE-1 HOLE-2
+END
+Sun Oct 04 09:34:45 2009				Page    38
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/ht12e_7.txt'.
+
+
+(DEVICE DESCRIPTION FILE: HT12E_7)
+PACKAGE DIP10018W300L950
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 18
+END
+Sun Oct 04 09:34:45 2009				Page    39
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/atf16v8b_3.txt'.
+
+
+(DEVICE DESCRIPTION FILE: ATF16V8B_3)
+PACKAGE DIP10020W300L975
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 20
+END
+Sun Oct 04 09:34:45 2009				Page    40
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/74hc00_7.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 74HC00_7)
+PACKAGE DIP10014W300L700
+PACKAGEPROP VALUE '74HC00'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 14
+END
+Sun Oct 04 09:34:45 2009				Page    41
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/lm317a_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: LM317A_1)
+PACKAGE SMSOT2231234
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun Oct 04 09:34:45 2009				Page    42
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun Oct 04 09:34:45 2009				Page    43
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun Oct 04 09:34:45 2009				Page    44
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun Oct 04 09:34:45 2009				Page    45
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun Oct 04 09:34:45 2009				Page    46
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun Oct 04 09:34:45 2009				Page    47
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+
+
+===========================================================
+
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+===========================================================
+
+Total Combined Netlist and Device File Warnings =  3.
+Total Combined Netlist and Device File Errors   =  0.
+
+===========================================================
+End of Allegro NETLIST IN Log
+===========================================================

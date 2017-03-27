@@ -1,0 +1,26 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Unplaced Symbol Availability Check                  )
+(                                                            )
+(        Drawing          : cmpe174tutorial_nxlau-1.brd      )
+(        Software Version : 16.2p005                         )
+(        Date/Time        : Wed Oct 28 17:56:05 2009         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../../lib/symbols
+	C:/Cadence/SPB_16.2/share/local/pcb/symbols
+	C:/Cadence/SPB_16.2/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_16.2/share/pcb/allegrolib/symbols
+
+
+All Symbols Found
+
+Total symbols placed:      41 out of 41
+
+

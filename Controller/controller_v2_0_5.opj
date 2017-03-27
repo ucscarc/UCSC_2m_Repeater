@@ -1,0 +1,74 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\lib\temp.olb"
+        (Type "Schematic Library")))
+    (File ".\controller_v2_0_5.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\controller_v2_0_5.dsn")
+      (Path "Design Resources" ".\controller_v2_0_5.dsn" "Interface Controller")
+      (Path "Design Resources" ".\controller_v2_0_5.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "..\lib\temp.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 284 0 560"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 0 700 -4 -23 44 1013 44 635")
+        (Scroll "-6 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER_V2_0_5.DSN")
+      (Schematic "Interface Controller")
+      (Page "2 Fan Driver"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 66 1055 66 552")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER_V2_0_5.DSN")
+      (Schematic "Interface Controller")
+      (Page "0 Revisions"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 160 700 -4 -23 88 1077 88 574")
+        (Scroll "-16 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER_V2_0_5.DSN")
+      (Schematic "Interface Controller")
+      (Page "1 Radio Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 320 700 -4 -23 110 1154 110 614")
+        (Scroll "-43 0")
+        (Zoom "67")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER_V2_0_5.DSN")
+      (Schematic "Interface Controller")
+      (Page "3 Status and Power")))
+  (MPSSessionName "Stephen"))

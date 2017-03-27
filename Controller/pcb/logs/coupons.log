@@ -1,0 +1,35 @@
+Coupon Generation Session Started - Dec 02 20:06:48 2010
+
+
+Coupon A Selected
+-----------------
+
+	Padstack "pad30cir20d" has been specified
+	Symbol coupon_a created
+
+Coupon B Selected
+-----------------
+
+	Padstack "via" has been specified
+	Symbol coupon_b_top_bottom created using via.pad
+
+Coupon C not selected
+---------------------
+
+Coupon D not selected
+---------------------
+
+Coupon E not selected
+---------------------
+
+Coupon F Selected
+-----------------
+
+	Padstack "59r35" has been specified
+	Symbol coupon_f created
+
+Coupon G not selected
+---------------------
+
+
+Coupon Generation Session Completed - Dec 02 20:06:48 2010

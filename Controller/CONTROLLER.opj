@@ -1,0 +1,180 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "c:\academic\ucsc\reference\by course\103l ee\hardware\lib\ee103.olb"
+        (Type "Schematic Library")))
+    (File ".\controller.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    (NoModify)
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "PCB")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "C:\Amateur Radio\Projects\UCSC_2m_Repeater\Controller.\pcb\controller.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Configuration File"
+       "C:\Cadence\SPB_16.3\tools\capture\allegro.cfg")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    ("Allegro Netlist Input Board File"
+       "C:\Amateur Radio\Projects\UCSC_2m_Repeater\Controller\pcb\controller.brd"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\pcb\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pcb\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pcb\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\controller.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (2N3906
+      (FullPartName "2N3906.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("R small"
+      (FullPartName "R small.Normal")
+      (LibraryName
+         "C:\TOPICS (TECHNICAL)\ENGINEERING\PROJECTS\UCSC\MINIBUOY2005\MARK I DESIGN\LIB\MINIBUOY.OLB")
+      (DeviceIndex "0"))
+    ("C small"
+      (FullPartName "C small.Normal")
+      (LibraryName
+         "C:\ACADEMIC\UCSC\2010 - 2011\1 - 2010 FALL\CMPE174 F10\LABORATORY\DEVELOPMENT\LIB\CMPE174REFLIB_COMPLETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\controller.dsn")
+      (Path "Design Resources" ".\controller.dsn" "Interface Controller")
+      (Path "Design Resources" "Library")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 4 254 4 403"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 22 956 22 581")
+        (Scroll "0 0")
+        (Zoom "79")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER.DSN")
+      (Schematic "Interface Controller")
+      (Page "1 Radio Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 44 978 44 603")
+        (Scroll "0 0")
+        (Zoom "79")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER.DSN")
+      (Schematic "Interface Controller")
+      (Page "2 Fan Driver"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 66 1000 66 625")
+        (Scroll "0 621")
+        (Zoom "154")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER.DSN")
+      (Schematic "Interface Controller")
+      (Page "3 Status and Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 88 1230 88 575")
+        (Scroll "44 90")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER.DSN")
+      (Schematic "Interface Controller")
+      (Page "4 Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 110 1274 110 540")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AMATEUR RADIO\PROJECTS\UCSC_2M_REPEATER\CONTROLLER\CONTROLLER.DSN")
+      (Schematic "Interface Controller")
+      (Page "0 Revisions")))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "petersen"))

@@ -1,0 +1,61 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Parameter File READ                                 )
+(                                                            )
+(        Drawing          : unnamed.brd                      )
+(        Software Version : 16.2p004                         )
+(        Date/Time        : Sun Oct 04 09:35:39 2009         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+	Paramfile Name : C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Lib/local/parameter/2_layer_default.prm
+	Layout Name   : C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/unnamed.brd
+
+Reading...db_common_type:
+Reading...grid_parms_type:
+	WARNING: The value of element <etchcount> is not equal to the number of 
+		   user defined subclass under ETCH class. 
+
+Reading...UnusedPadsSuppressionSettings:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_film_type:
+Reading...art_film_block_type:
+Reading...art_class_type:
+Reading...art_class_type:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...drf_parm_type:
+Reading...ats_parm_type:
+Reading...ministat_parm_type:
+Reading...ifp_parm_type:
+Reading...dynfill_parm_type:
+Reading...probe_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 1.

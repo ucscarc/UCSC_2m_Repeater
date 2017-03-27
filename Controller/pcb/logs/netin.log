@@ -1,0 +1,814 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro NETLIST IN Log File                                      )
+(                                                                     )
+(    Drawing          : AZ-EL_CONTROLLER_V1_4.brd                     )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sun May 01 07:40:14 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun May 01 07:40:14 2011				Page     1
+
+
+
+
+Netlist File Name: 'C:\Amateur Radio\Projects\UCSC 2m Repeater\Controller\pcb\~
+AZ-EL_CONTROLLER_V1_4.txt'      Layout File Name: 'C:\Amateur Radio\Projects\U~
+CSC 2m Repeater\Controller\pcb\AZ-EL_CONTROLLER_V1_4.brd'
+
+===========================================================
+
+$PACKAGES
+'MTHOLE1' ! 'MTHOLE1' ! '' ; 52
+'MTHOLE1' ! 'MTHOLE1' ! '' ; 53
+'MTHOLE1' ! 'MTHOLE1' ! '' ; 54
+'MTHOLE1' ! 'MTHOLE1' ! '' ; 55
+'SMCTEIAB352812' ! 'C_POL' ! '1.0uF Tant' ; C1
+'SMCTEIAB352812' ! 'C_POL' ! '1.0uF Tant' ; C2
+'SMCTEIAB352812' ! 'C_POL' ! '1uF' ; C5
+                                    ^
+WARNING(SPMHNI-119): Replacing 'VALUE' value '1.0uF Tant' with '1uF'.
+-------------------------------------------------------------------------------
+'SMC0805' ! 'C_NP' ! '100nF' ; C6
+'SMC0805' ! 'C_NP' ! '100nF' ; C7
+'SMC0805' ! 'C_NP' ! '10nF' ; C8
+                             ^
+WARNING(SPMHNI-119): Replacing 'VALUE' value '100nF' with '10nF'.
+-------------------------------------------------------------------------------
+'SMC0805' ! 'C_NP' ! '10nF' ; C9
+'SMCTEIAB352812' ! 'C_POL' ! '1uF' ; C10
+'SMC0805' ! 'C_NP' ! '22' ; C11
+                           ^
+WARNING(SPMHNI-119): Replacing 'VALUE' value '100nF' with '22'.
+-------------------------------------------------------------------------------
+'SMC0805' ! 'C_NP' ! '22' ; C12
+'SMC0805' ! 'C_NP' ! '100nF' ; C13
+'SMC0805' ! 'C_NP' ! '100nF' ; C14
+'SMC0805' ! 'C_NP' ! '100nF' ; C16
+'SMC0805' ! 'C_NP' ! '100nF' ; C18
+'SMC0805' ! 'C_NP' ! '100nF' ; C19
+'SMC0805' ! 'C_NP' ! '100nF' ; C20
+'SMC0805' ! 'C_NP' ! '100nF' ; C22
+'SMSOT1431234' ! 'SP0503BAHT' ! 'SP0503BAHT' ; D1
+'DAX400X100035' ! 'DIODE13_2' ! '1N4148' ; D2
+'DAX400X100035' ! 'DIODE13_2' ! '1N4148' ; D3
+'DAX400X100035' ! 'DIODE13_2' ! '1N4148' ; D4
+'DAX400X100035' ! 'DIODE13_2' ! '1N4148' ; D5
+'USB_MOLEX_SD-67068' ! 'USB-B_1' ! 'USB-B' ; J1
+'CUI_SDS-80J_APC' ! '8PIN_1ROW_HEADER' ! '8Pin Female DIN' ; J2
+'BLKCON100VHTM2OEW20010APC' ! '10PIN_1ROW_HEADER' ! '10Pin 2Row Header' ; J3
+'BLKCON3_100V1SQ100' ! '2PIN_HEADER_0' ! '3Pin Header' ; J4
+'SMC1812' ! 'INDUCTOR_1' ! '100uH' ; L1
+'SMSOT23123' ! 'FMMT497_4' ! 'FMMT497' ; Q1
+'SMSOT23123' ! 'FMMT497_4' ! 'FMMT497' ; Q2
+'SMSOT23123' ! 'FMMT497_4' ! 'FMMT497' ; Q3
+'SMSOT23123' ! 'FMMT497_4' ! 'FMMT497' ; Q4
+'SMR0805' ! 'R' ! '5.1k' ; R1
+Sun May 01 07:40:14 2011				Page     2
+
+
+
+
+'SMR0805' ! 'R' ! '5.1k' ; R2
+'SMR0805' ! 'R' ! '5.1k' ; R3
+'SMR0805' ! 'R' ! '5.1k' ; R4
+'BOURNS_3361P' ! 'R_POT_3' ! '50k' ; R9
+'BOURNS_3361P_R10' ! 'R_POT_3' ! '50k' ; R10
+                                        ^
+WARNING(SPMHNI-82): Package symbol 'BOURNS_3361P_R10' replaces device file pac~
+kage 'BOURNS_3361P'.
+-------------------------------------------------------------------------------
+'SMR0805' ! 'R' ! '10k' ; R11
+                         ^
+WARNING(SPMHNI-119): Replacing 'VALUE' value '5.1k' with '10k'.
+-------------------------------------------------------------------------------
+'SMR0805' ! 'R' ! '10k' ; R12
+'SMR0805' ! 'R' ! '47k' ; R14
+                         ^
+WARNING(SPMHNI-119): Replacing 'VALUE' value '5.1k' with '47k'.
+-------------------------------------------------------------------------------
+'SMR0805' ! 'R' ! '47k' ; R15
+'SMR0805' ! 'R' ! '4.7k' ; R16
+                          ^
+WARNING(SPMHNI-119): Replacing 'VALUE' value '5.1k' with '4.7k'.
+-------------------------------------------------------------------------------
+'B3F-1000X' ! 'SW_PUSHBUTTON' ! 'SW PUSHBUTTON' ; SW1
+'TPVIA20' ! 'VIA_TEST_POINT_0' ! 'VIA TEST POINT' ; TP1
+'TPVIA20' ! 'VIA_TEST_POINT_0' ! 'VIA TEST POINT' ; TP2
+'QFN-28' ! 'CP2103_1' ! 'CP2103' ; U1
+'QUAD80M32WG900' ! 'ATMEGA8_24' ! 'ATmega8L' ; U4
+'SOJ050_14' ! '74X08_0' ! '74C08' ; U5
+'HC49-V' ! 'XTAL' ! '3.6864 MHz' ; X1
+$NETS
+'_ENABLE' ; R14.1 C13.1 SW1.2 J4.1 J3.4 U4.29
+'+3.3VUSB' ; U1.6 U1.5 U4.4 U4.6 J3.5 C1.1,
+ C10.1 C7.2 L1.2 R14.2
+'+5VUSB' ; U5.14 C19.1 C2.1 U1.8 J1.1 D1.4,
+ U1.7 J3.10
+'AD0' ; R10.2 TP2.1 U4.23
+'AD1' ; R9.2 TP1.1 U4.24
+'AD2' ; R15.1 C14.2 R16.2 U4.25
+'DOWN' ; D2.2 J2.3 C22.1 Q1.3
+'GND' ; Q4.2 D5.1 C12.1 U4.5 Q1.2 U4.3,
+ R9.1 C14.1 R10.1 C9.2 C8.2 SW1.1 C13.2,
+ C11.2 U1.30 Q2.2 D2.1 D3.1 C6.2 R16.1,
+ C20.2 C16.2 C22.2 J3.9 J3.7 J1.6 C1.2,
+ J3.8 J3.6 U1.2 J1.4 D1.1 C10.2 C18.2,
+ J2.8 U1.29 C2.2 D4.1 U5.7 C5.2 U4.21,
+ C7.1 54.1 Q3.2 C19.2 J4.3 55.1 52.1,
+ 53.1 J1.5
+'LEFT' ; D4.2 Q3.3 J2.4 C18.1
+'N1167880' ; R1.2 Q1.1
+'N1168240' ; R2.2 Q2.1
+'N1168660' ; R3.2 Q3.1
+Sun May 01 07:40:14 2011				Page     3
+
+
+
+
+'N1168960' ; R4.2 Q4.1
+'N1169300' ; R1.1 U5.11
+'N1169600' ; U5.8 R2.1
+'N1169840' ; U5.6 R3.1
+'N1170120' ; R4.1 U5.3
+'N13541961' ; U1.3 D1.3 J1.3
+'N13541977' ; U1.4 D1.2 J1.2
+'N13562371' ; U4.20 C6.1
+'N13566402' ; L1.1 C5.1 U4.18
+'N13578816' ; R10.3 C9.1 R12.1
+'N13578943' ; C8.1 R11.1 R9.3
+'N13609960' ; U1.25 U4.30
+'N13610322' ; U1.24 U4.31
+'N13616251' ; X1.2 C12.2 U4.7
+'N13616435' ; U4.8 X1.1 C11.1
+'EL' ; J2.1 R11.2
+'AZ' ; R12.2 J2.6
+'N13644378' ; U5.1 U4.13
+'N13700685' ; R15.2 J2.7
+'N13795968' ; U5.13 U5.2 U5.10 U5.5 J4.2
+'RIGHT' ; J2.2 D5.2 C16.1 Q4.3
+'SCK' ; U5.4 J3.1 U4.17
+'SDI' ; J3.3 U5.12 U4.15
+'SDO' ; U5.9 J3.2 U4.16
+'UP' ; C20.1 J2.5 D3.2 Q2.3
+$A_PROPERTIES
+$END
+
+===========================================================
+End of NETLIST IN Syntax/Logic Check
+===========================================================
+
+Total Netlist Warnings =  7.
+Total Netlist Errors   =  0.
+Sun May 01 07:40:14 2011				Page     1
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun May 01 07:40:14 2011				Page     2
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun May 01 07:40:14 2011				Page     3
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun May 01 07:40:14 2011				Page     4
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/mthole1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: MTHOLE1)
+PACKAGE MTHOLE1
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun May 01 07:40:14 2011				Page     5
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_pol.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_POL)
+PACKAGE SMCTEIAB352812
+PACKAGEPROP VALUE '1.0uF Tant'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page     6
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_pol.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_POL)
+PACKAGE SMCTEIAB352812
+PACKAGEPROP VALUE '1.0uF Tant'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page     7
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_pol.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_POL)
+PACKAGE SMCTEIAB352812
+PACKAGEPROP VALUE '1.0uF Tant'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page     8
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page     9
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    10
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    11
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    12
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_pol.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_POL)
+PACKAGE SMCTEIAB352812
+PACKAGEPROP VALUE '1.0uF Tant'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    13
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    14
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    15
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    16
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    17
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    18
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    19
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    20
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    21
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/c_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: C_NP)
+PACKAGE SMC0805
+PACKAGEPROP VALUE '100nF'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    22
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/sp0503baht.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SP0503BAHT)
+PACKAGE SMSOT1431234
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun May 01 07:40:14 2011				Page    23
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/diode13_2.txt'.
+
+
+(DEVICE DESCRIPTION FILE: DIODE13_2)
+PACKAGE DAX400X100035
+PACKAGEPROP VALUE '1N4148'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    24
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/diode13_2.txt'.
+
+
+(DEVICE DESCRIPTION FILE: DIODE13_2)
+PACKAGE DAX400X100035
+PACKAGEPROP VALUE '1N4148'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    25
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/diode13_2.txt'.
+
+
+(DEVICE DESCRIPTION FILE: DIODE13_2)
+PACKAGE DAX400X100035
+PACKAGEPROP VALUE '1N4148'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    26
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/diode13_2.txt'.
+
+
+(DEVICE DESCRIPTION FILE: DIODE13_2)
+PACKAGE DAX400X100035
+PACKAGEPROP VALUE '1N4148'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    27
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/usb-b_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: USB-B_1)
+PACKAGE USB_MOLEX_SD-67068
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 6
+PINORDER USB-B_1 3 4 2 1 5 6
+FUNCTION G1 USB-B_1 3 4 2 1 5 6
+END
+Sun May 01 07:40:14 2011				Page    28
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/8pin_1row_header.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 8PIN_1ROW_HEADER)
+PACKAGE CUI_SDS-80J_APC
+PACKAGEPROP VALUE '8Pin Female DIN'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 12
+END
+Sun May 01 07:40:14 2011				Page    29
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/10pin_1row_header.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 10PIN_1ROW_HEADER)
+PACKAGE BLKCON100VHTM2OEW20010APC
+PACKAGEPROP VALUE '10Pin 2Row Header'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 10
+END
+Sun May 01 07:40:14 2011				Page    30
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/2pin_header_0.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 2PIN_HEADER_0)
+PACKAGE BLKCON3_100V1SQ100
+PACKAGEPROP VALUE '3Pin Header'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 3
+END
+Sun May 01 07:40:14 2011				Page    31
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/inductor_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: INDUCTOR_1)
+PACKAGE SMC1812
+PACKAGEPROP VALUE '100uH'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    32
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/fmmt497_4.txt'.
+
+
+(DEVICE DESCRIPTION FILE: FMMT497_4)
+PACKAGE SMSOT23123
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 3
+END
+Sun May 01 07:40:14 2011				Page    33
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/fmmt497_4.txt'.
+
+
+(DEVICE DESCRIPTION FILE: FMMT497_4)
+PACKAGE SMSOT23123
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 3
+END
+Sun May 01 07:40:14 2011				Page    34
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/fmmt497_4.txt'.
+
+
+(DEVICE DESCRIPTION FILE: FMMT497_4)
+PACKAGE SMSOT23123
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 3
+END
+Sun May 01 07:40:14 2011				Page    35
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/fmmt497_4.txt'.
+
+
+(DEVICE DESCRIPTION FILE: FMMT497_4)
+PACKAGE SMSOT23123
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 3
+END
+Sun May 01 07:40:14 2011				Page    36
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    37
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    38
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    39
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    40
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r_pot_3.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R_POT_3)
+PACKAGE BOURNS_3361P
+PACKAGEPROP VALUE '50k'
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(BOURNS_3361P_R10)'
+CLASS IC
+PINCOUNT 3
+PINORDER R_POT_3 1 3 2
+FUNCTION G1 R_POT_3 1 3 2
+END
+Sun May 01 07:40:14 2011				Page    41
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r_pot_3.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R_POT_3)
+PACKAGE BOURNS_3361P
+PACKAGEPROP VALUE '50k'
+PACKAGEPROP HEIGHT '1.0000000'
+PACKAGEPROP ALT_SYMBOLS '(BOURNS_3361P_R10)'
+CLASS IC
+PINCOUNT 3
+PINORDER R_POT_3 1 3 2
+FUNCTION G1 R_POT_3 1 3 2
+END
+Sun May 01 07:40:14 2011				Page    42
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    43
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    44
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    45
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    46
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/r.txt'.
+
+
+(DEVICE DESCRIPTION FILE: R)
+PACKAGE SMR0805
+PACKAGEPROP VALUE '5.1k'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Sun May 01 07:40:14 2011				Page    47
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/sw_pushbutton.txt'.
+
+
+(DEVICE DESCRIPTION FILE: SW_PUSHBUTTON)
+PACKAGE B3F-1000X
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 4
+END
+Sun May 01 07:40:14 2011				Page    48
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/via_test_point_0.txt'.
+
+
+(DEVICE DESCRIPTION FILE: VIA_TEST_POINT_0)
+PACKAGE TPVIA20
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun May 01 07:40:14 2011				Page    49
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/via_test_point_0.txt'.
+
+
+(DEVICE DESCRIPTION FILE: VIA_TEST_POINT_0)
+PACKAGE TPVIA20
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 1
+END
+Sun May 01 07:40:14 2011				Page    50
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/cp2103_1.txt'.
+
+
+(DEVICE DESCRIPTION FILE: CP2103_1)
+PACKAGE QFN-28
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 30
+PINORDER CP2103_1 1 30 2 3 4 5 6 7 15 16,
+	 17 18 19 20 21 29 8 9 10 11 12,
+	 13 14 22 23 24 25 26 27 28
+FUNCTION G1 CP2103_1 1 30 2 3 4 5 6 7 15 16,
+	 17 18 19 20 21 29 8 9 10 11 12,
+	 13 14 22 23 24 25 26 27 28
+END
+Sun May 01 07:40:14 2011				Page    51
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/atmega8_24.txt'.
+
+
+(DEVICE DESCRIPTION FILE: ATMEGA8_24)
+PACKAGE QUAD80M32WG900
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 32
+END
+Sun May 01 07:40:14 2011				Page    52
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/74x08_0.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 74X08_0)
+PACKAGE SOJ050_14
+PACKAGEPROP VALUE '74C08'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 14
+END
+Sun May 01 07:40:14 2011				Page    53
+
+Parsing device file: 'C:/Amateur Radio/Projects/UCSC 2m Repeater/Controller/pcb/xtal.txt'.
+
+
+(DEVICE DESCRIPTION FILE: XTAL)
+PACKAGE HC49-V
+PACKAGEPROP VALUE '3.6864 MHz'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+
+
+===========================================================
+
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+===========================================================
+
+Total Combined Netlist and Device File Warnings =  7.
+Total Combined Netlist and Device File Errors   =  0.
+
+===========================================================
+End of Allegro NETLIST IN Log
+===========================================================

@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : 9_cmpe174tutorial.brd                         )
+(    Software Version : 16.3S017                                      )
+(    Date/Time        : Sun Nov 21 18:02:35 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'C:/Cadence/SPB_16.3/share/pcb/text/nclegend/default-mil.dlt' ...
+End of drill legend template file processing.
+Begin processing of drill legend template file 'C:/Academic/UCSC/2010 - 2011/1 - 2010 Fall/CMPE174 F10/Laboratory/Development/Handset/pcb/default-mil_small.dlt' ...
+End of drill legend template file processing.
+
+Begin processing drill holes.
+No errors detected in processing holes.
+End processing drill holes.

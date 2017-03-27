@@ -1,0 +1,74 @@
+Tue Nov 10 14:29:06 2009				Page     1
+
+Allegro NETLIST IN Log File
+===========================================================
+
+Netlist File Name: 'C:\Academic\UCSC\2009 - 2010\1 - 2009 Fall\CMPE174 F09\Lab~
+oratory\Development\Handset\pcb\FM_XMTR_v2_llb.txt'      Layout File Name: 'C:~
+\Academic\UCSC\2009 - 2010\1 - 2009 Fall\CMPE174 F09\Laboratory\Development\Ha~
+ndset\pcb\FM_XMTR_v2_llb.brd'
+
+===========================================================
+
+$PACKAGES
+'RFSMAV' ! 'RFSMAV' ; RFSMAV
+'RFSMAVAPC' ! 'RFSMAVAPC' ; RFSMAVAPC
+'L_WW' ! 'L_WW' ; L_WW
+$NETS
+$A_PROPERTIES
+$END
+
+===========================================================
+End of NETLIST IN Syntax/Logic Check
+===========================================================
+
+Total Netlist Warnings =  0.
+Total Netlist Errors   =  0.
+Tue Nov 10 14:29:06 2009				Page     1
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/rfsmav.txt'.
+
+
+(DEVICE DESCRIPTION FILE: RFSMAV)
+PACKAGE RFSMAV
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 5
+END
+Tue Nov 10 14:29:06 2009				Page     2
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/rfsmavapc.txt'.
+
+
+(DEVICE DESCRIPTION FILE: RFSMAVAPC)
+PACKAGE RFSMAVAPC
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 5
+END
+Tue Nov 10 14:29:06 2009				Page     3
+
+Parsing device file: 'C:/Academic/UCSC/2009 - 2010/1 - 2009 Fall/CMPE174 F09/Laboratory/Development/Handset/pcb/l_ww.txt'.
+
+
+(DEVICE DESCRIPTION FILE: L_WW)
+PACKAGE L_WW
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+
+
+===========================================================
+
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+===========================================================
+
+Total Combined Netlist and Device File Warnings =  0.
+Total Combined Netlist and Device File Errors   =  0.
+
+===========================================================
+End of Allegro NETLIST IN Log
+===========================================================
